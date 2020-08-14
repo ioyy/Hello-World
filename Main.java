@@ -10,15 +10,11 @@ public class Main
 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-
-		System.out.println("League of Legends");
-
-		System.out.println("GTA V");
-
-		System.out.println("Badminton");
-
-		System.out.println("UC SB");
-
-		System.out.println("TorchLight II");
+		System.out.println("My name is Jiaming");
+		System.out.println("I love playing League of Legends even though it tilts me a lot of times.");
+		System.out.println("I also enjoy playing GTA V");
+		System.out.println("The college I want to go is UC Santa Barbara");
+		System.out.println("I also really like playing Badminton");
+		System.out.println("And I hate boring classses");
 	}
 }
